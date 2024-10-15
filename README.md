@@ -1,5 +1,5 @@
 # spring-boot-masters
-
+Este proyecto es el backend de la aplicación Estramipime, diseñada para la gestión y optimización de estrategias y operaciones empresariales. El backend está desarrollado en Spring Boot con Java y expone una API REST que permite gestionar usuarios, estrategias, reportes, y más funcionalidades de la aplicación Estramipime.
 
 ## Integrantes
 Leonard Villegas: villegas.leonard@gmail.com
