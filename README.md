@@ -10,4 +10,4 @@ Este proyecto es el backend de la aplicación Estramipime, diseñada para la ges
 
 ## Contribuciones
 
-¡Agradecemos tus contribuciones! Por favor, revisa el archivo [CONTRIBUTING.md](./contributing.md) para obtener más detalles sobre cómo puedes colaborar.
+¡Agradecemos tus contribuciones! Por favor, revisa el archivo [`CONTRIBUTING.md`](./CONTRIBUTING.md) para obtener más detalles sobre cómo puedes colaborar.
