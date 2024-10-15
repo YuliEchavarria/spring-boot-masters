@@ -38,7 +38,6 @@ Si tu rama no está basada en la última versión de master, debes realizar un r
 Para realizar un rebase:
 
 ```
-Copiar código
 git checkout master
 git pull origin master
 git checkout SP-123-descripción-de-tu-tarea
