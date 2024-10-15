@@ -32,7 +32,7 @@ git rebase master
 
 * Solo una vez que al menos dos personas hayan aprobado el Pull Request, se podrá hacer el merge a main.
 El merge debe realizarse en base a la última versión de master.
-  ## Rebase
+## Rebase
 Si tu rama no está basada en la última versión de master, debes realizar un rebase antes de solicitar la integración del Pull Request. Esto garantiza que todos los cambios estén alineados con la versión más reciente del proyecto.
 
 Para realizar un rebase:
