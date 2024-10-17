@@ -9,6 +9,8 @@ Este proyecto es el backend de la aplicación Estramipime, diseñada para la ges
 * Angie Arango: angie.a.zapata@gmail.com
 
 * Edwin Cuteño: edwincuteno12@gmail.com
+  
+* Yuliana Echavarria: yuliandre16.07@hotmail.com
 
 ## Contribuciones
 
